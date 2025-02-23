@@ -11,7 +11,6 @@ import { LoginUserDto } from './dto/login-user.dto';
 import { User } from './entities/user.entity';
 
 import { JwtPayload } from './interfaces/jwt-payload.interface';
-import { use } from 'passport';
 
 
 
